@@ -1,0 +1,8 @@
+type
+leap
+print
+copy
+select
+delete
+format
+highlight
